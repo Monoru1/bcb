@@ -1,0 +1,14 @@
+{
+  "name": "black-crown-barber",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.5",
+    "typescript": "^5.7.2"
+  }
+}
